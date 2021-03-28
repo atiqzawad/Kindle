@@ -63,6 +63,9 @@
 
 * [briss](http://briss.sourceforge.net/) PDF cropping tool
 
+##### **PDF Unlocker**
+* [Unlock PDF](https://smallpdf.com/unlock-pdf) PDF unlocking tool
+
 ##### **JPEGtoPDF** 
 
 * [JPEGtoPDF](http://compulsivecode.com/jpegtopdf.html) Convert image files into PDF files
