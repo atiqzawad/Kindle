@@ -39,7 +39,13 @@
 
 * [Kindle Comic Converter](http://kcc.iosphe.re/) Comic/Manga to Panel View MOBI converter. Optimize images for E-Ink displays.
 
-----
+## **Mangle**
+
+* [Mangle](https://foosoft.net/projects/mangle/) Manga image converter and optimizer
+
+## **Comic Parser**
+
+* [Kindle Comic Parser](http://www.mobileread.mobi/forums/attachment.php?attachmentid=93418&d=1349401409)
 
 #### **Feed/Transfer Apps**
 
