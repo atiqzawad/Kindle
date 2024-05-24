@@ -84,3 +84,10 @@
 
 * [Kindle Collections](https://www.mobileread.com/forums/showthread.php?t=244202) Calibre plugin to manage collections
 
+----
+
+#### **Export Highlights**
+
+* [My Kindle Tools](https://www.mykindletools.com/kindle-clipping-export)
+* [My Clippings](https://my.clippings.io/)
+* [Kindle Clipping Parser](https://becausecurious.me/kindle_clippings_parser)
